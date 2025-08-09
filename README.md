@@ -97,7 +97,3 @@ The tournament displays:
 - Strategy rankings
 
 Typically, cooperative strategies with retaliation capabilities (like Tit-for-Tat variants) perform well, while the Deep Learning strategy adapts its behavior based on the opponent type.
-
-## License
-
-This project is for educational and research purposes.
